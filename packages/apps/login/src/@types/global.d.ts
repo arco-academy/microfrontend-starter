@@ -1,0 +1,1 @@
+declare module '@mcf-core/Count'
