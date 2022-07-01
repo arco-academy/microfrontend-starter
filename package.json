@@ -1,10 +1,10 @@
 {
-  "name": "my-turborepo",
+  "name": "mcf",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
-    "apps/*",
-    "packages/*"
+    "packages/apps/*",
+    "packages/common/*"
   ],
   "scripts": {
     "build": "turbo run build",
