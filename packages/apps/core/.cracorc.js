@@ -18,7 +18,7 @@ module.exports = () => ({
             './Count': './src/context/count.tsx',
           },
           remotes: {
-            "@mcf-login": "login@https://3001-arcoacademy-microfronte-b4dfayo2z8a.ws-us47.gitpod.io/remoteEntry.js"
+            "@mcf-login": "login@http://localhost:3001remoteEntry.js"
           },
           shared: {
             ...deps,

@@ -18,7 +18,7 @@ module.exports = () => ({
             "./App": "./src/App.tsx",
           },
           remotes: {
-            "@mcf-core": "core@https://3000-arcoacademy-microfronte-b4dfayo2z8a.ws-us47.gitpod.io/remoteEntry.js"
+            "@mcf-core": "core@http://localhost:3000/remoteEntry.js"
           },
           shared: {
             ...deps,
